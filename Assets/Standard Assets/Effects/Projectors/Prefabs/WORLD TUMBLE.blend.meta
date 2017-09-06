@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: ab53b592456234bc4ba18694e5c35204
+timeCreated: 1496949307
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ___DUMMY_Group01
+    100002: ___DUMMY_Group02
+    100004: bst_Lamp1_000
+    100006: Circle
+    100008: Cube
+    100010: Cube_003
+    100012: Cube_007
+    100014: Cube_008
+    100016: Cube_014
+    100018: Cube_016
+    100020: Cylinder
+    100022: Cylinder_001
+    100024: Door
+    100026: DoorFrame
+    100028: Handle_Back
+    100030: Handle_Front
+    100032: Plane
+    100034: PowerCord_000
+    100036: Sphere_000
+    100038: Sphere_001
+    100040: Sphere_002
+    100042: Sphere_003
+    100044: tv_set
+    100046: tvbench_las_vegas_mio
+    100048: //RootNode
+    400000: ___DUMMY_Group01
+    400002: ___DUMMY_Group02
+    400004: bst_Lamp1_000
+    400006: Circle
+    400008: Cube
+    400010: Cube_003
+    400012: Cube_007
+    400014: Cube_008
+    400016: Cube_014
+    400018: Cube_016
+    400020: Cylinder
+    400022: Cylinder_001
+    400024: Door
+    400026: DoorFrame
+    400028: Handle_Back
+    400030: Handle_Front
+    400032: Plane
+    400034: PowerCord_000
+    400036: Sphere_000
+    400038: Sphere_001
+    400040: Sphere_002
+    400042: Sphere_003
+    400044: tv_set
+    400046: tvbench_las_vegas_mio
+    400048: //RootNode
+    2300000: bst_Lamp1_000
+    2300002: Circle
+    2300004: Cube
+    2300006: Cube_003
+    2300008: Cube_007
+    2300010: Cube_008
+    2300012: Cube_014
+    2300014: Cube_016
+    2300016: Cylinder
+    2300018: Cylinder_001
+    2300020: Door
+    2300022: DoorFrame
+    2300024: Handle_Back
+    2300026: Handle_Front
+    2300028: Plane
+    2300030: PowerCord_000
+    2300032: Sphere_000
+    2300034: Sphere_001
+    2300036: Sphere_002
+    2300038: Sphere_003
+    2300040: tv_set
+    2300042: tvbench_las_vegas_mio
+    3300000: bst_Lamp1_000
+    3300002: Circle
+    3300004: Cube
+    3300006: Cube_003
+    3300008: Cube_007
+    3300010: Cube_008
+    3300012: Cube_014
+    3300014: Cube_016
+    3300016: Cylinder
+    3300018: Cylinder_001
+    3300020: Door
+    3300022: DoorFrame
+    3300024: Handle_Back
+    3300026: Handle_Front
+    3300028: Plane
+    3300030: PowerCord_000
+    3300032: Sphere_000
+    3300034: Sphere_001
+    3300036: Sphere_002
+    3300038: Sphere_003
+    3300040: tv_set
+    3300042: tvbench_las_vegas_mio
+    4300000: Cube_008
+    4300002: Cube_007
+    4300004: DoorFrame
+    4300006: Door
+    4300008: Handle_Back
+    4300010: Handle_Front
+    4300012: Plane
+    4300014: Sphere_003
+    4300016: Sphere_002
+    4300018: Sphere_000
+    4300020: Sphere_001
+    4300022: Circle
+    4300024: Cube_014
+    4300026: Cube_016
+    4300028: Cube
+    4300030: Cylinder
+    4300032: bst_Lamp1_000
+    4300034: Cylinder_001
+    4300036: PowerCord_000
+    4300038: Cube_003
+    4300040: tv_set
+    4300042: tvbench_las_vegas_mio
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 5253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_007
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

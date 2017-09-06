@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: 6aeb90be70be74d5c93730a22c57b2c2
+timeCreated: 1497043302
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ___DUMMY_Group01
+    100002: ___DUMMY_Group02
+    100004: Armature
+    100006: Bone
+    100008: bst_Lamp1_000
+    100010: Chest
+    100012: Circle
+    100014: //RootNode
+    100016: CTRL_Baseboard
+    100018: Cube
+    100020: Cube_001
+    100022: Cube_002
+    100024: Cube_003
+    100026: Cube_004
+    100028: Cube_005
+    100030: Cube_006
+    100032: Cube_014
+    100034: Cube_016
+    100036: Cylinder
+    100038: Cylinder_001
+    100040: Door
+    100042: DoorFrame
+    100044: Handle_Back
+    100046: Handle_Front
+    100048: Head
+    100050: Hip
+    100052: Jordansplanation_001
+    100054: LClavicle
+    100056: LFoot
+    100058: LForearm
+    100060: LHand
+    100062: LowerSpine
+    100064: LShin
+    100066: LShoulder
+    100068: LThigh
+    100070: LToe
+    100072: MiddleSpine
+    100074: model_mesh_003
+    100076: Neck
+    100078: Plane
+    100080: PowerCord_000
+    100082: RClavicle
+    100084: RFoot
+    100086: RForearm
+    100088: RHand
+    100090: RShin
+    100092: RShoulder
+    100094: RThigh
+    100096: RToe
+    100098: Sphere_000
+    100100: Sphere_001
+    100102: Sphere_002
+    100104: Sphere_003
+    100106: tv_set
+    100108: tvbench_las_vegas_mio
+    400000: ___DUMMY_Group01
+    400002: ___DUMMY_Group02
+    400004: Armature
+    400006: Bone
+    400008: bst_Lamp1_000
+    400010: Chest
+    400012: Circle
+    400014: //RootNode
+    400016: CTRL_Baseboard
+    400018: Cube
+    400020: Cube_001
+    400022: Cube_002
+    400024: Cube_003
+    400026: Cube_004
+    400028: Cube_005
+    400030: Cube_006
+    400032: Cube_014
+    400034: Cube_016
+    400036: Cylinder
+    400038: Cylinder_001
+    400040: Door
+    400042: DoorFrame
+    400044: Handle_Back
+    400046: Handle_Front
+    400048: Head
+    400050: Hip
+    400052: Jordansplanation_001
+    400054: LClavicle
+    400056: LFoot
+    400058: LForearm
+    400060: LHand
+    400062: LowerSpine
+    400064: LShin
+    400066: LShoulder
+    400068: LThigh
+    400070: LToe
+    400072: MiddleSpine
+    400074: model_mesh_003
+    400076: Neck
+    400078: Plane
+    400080: PowerCord_000
+    400082: RClavicle
+    400084: RFoot
+    400086: RForearm
+    400088: RHand
+    400090: RShin
+    400092: RShoulder
+    400094: RThigh
+    400096: RToe
+    400098: Sphere_000
+    400100: Sphere_001
+    400102: Sphere_002
+    400104: Sphere_003
+    400106: tv_set
+    400108: tvbench_las_vegas_mio
+    2300000: bst_Lamp1_000
+    2300002: Circle
+    2300004: CTRL_Baseboard
+    2300006: Cube
+    2300008: Cube_001
+    2300010: Cube_002
+    2300012: Cube_003
+    2300014: Cube_004
+    2300016: Cube_005
+    2300018: Cube_006
+    2300020: Cube_016
+    2300022: Cylinder
+    2300024: Cylinder_001
+    2300026: Door
+    2300028: DoorFrame
+    2300030: Handle_Back
+    2300032: Handle_Front
+    2300034: Plane
+    2300036: PowerCord_000
+    2300038: Sphere_000
+    2300040: Sphere_001
+    2300042: Sphere_002
+    2300044: Sphere_003
+    2300046: tv_set
+    2300048: tvbench_las_vegas_mio
+    3300000: bst_Lamp1_000
+    3300002: Circle
+    3300004: CTRL_Baseboard
+    3300006: Cube
+    3300008: Cube_001
+    3300010: Cube_002
+    3300012: Cube_003
+    3300014: Cube_004
+    3300016: Cube_005
+    3300018: Cube_006
+    3300020: Cube_016
+    3300022: Cylinder
+    3300024: Cylinder_001
+    3300026: Door
+    3300028: DoorFrame
+    3300030: Handle_Back
+    3300032: Handle_Front
+    3300034: Plane
+    3300036: PowerCord_000
+    3300038: Sphere_000
+    3300040: Sphere_001
+    3300042: Sphere_002
+    3300044: Sphere_003
+    3300046: tv_set
+    3300048: tvbench_las_vegas_mio
+    4300000: Cube_006
+    4300002: Cube_004
+    4300004: Cube_001
+    4300006: Cube_005
+    4300008: CTRL_Baseboard
+    4300010: DoorFrame
+    4300012: Door
+    4300014: Handle_Back
+    4300016: Handle_Front
+    4300018: Plane
+    4300020: Cube_002
+    4300022: Sphere_003
+    4300024: Sphere_002
+    4300026: Sphere_000
+    4300028: Sphere_001
+    4300030: Circle
+    4300032: Cube_014
+    4300034: Cube_016
+    4300036: model_mesh_003
+    4300038: Cube
+    4300040: Cylinder
+    4300042: bst_Lamp1_000
+    4300044: Cylinder_001
+    4300046: PowerCord_000
+    4300048: Cube_003
+    4300050: tv_set
+    4300052: tvbench_las_vegas_mio
+    7400000: Default Take
+    7400002: Action
+    7400004: ArmatureAction
+    7400006: Base_CouchAbduc_001
+    7400008: Base_Jordanspla_001
+    7400010: Base_Jordanspla
+    7400012: Base_CouchAbduc
+    9500000: //RootNode
+    13700000: Cube_014
+    13700002: model_mesh_003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action
+      takeName: Action
+      firstFrame: 6
+      lastFrame: 919
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 19
+      lastFrame: 739
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Base_CouchAbduc_001
+      takeName: Base_CouchAbduc_001
+      firstFrame: 0
+      lastFrame: 1051
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Base_Jordanspla_001
+      takeName: Base_Jordanspla_001
+      firstFrame: 0
+      lastFrame: 1625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Base_Jordanspla
+      takeName: Base_Jordanspla
+      firstFrame: 0
+      lastFrame: 1642
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Base_CouchAbduc
+      takeName: Base_CouchAbduc
+      firstFrame: 0
+      lastFrame: 1051
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ___DUMMY_Group02
+        weight: 1
+      - path: ___DUMMY_Group02/___DUMMY_Group01
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: bst_Lamp1_000
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: CTRL_Baseboard
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_014/Cube_016
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: DoorFrame
+        weight: 1
+      - path: DoorFrame/Door
+        weight: 1
+      - path: DoorFrame/Door/Handle_Back
+        weight: 1
+      - path: DoorFrame/Door/Handle_Front
+        weight: 1
+      - path: Jordansplanation_001
+        weight: 1
+      - path: Jordansplanation_001/Hip
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: Jordansplanation_001/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: Jordansplanation_001/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      - path: model_mesh_003
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: PowerCord_000
+        weight: 1
+      - path: Sphere_000
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      - path: Sphere_002
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: tv_set
+        weight: 1
+      - path: tvbench_las_vegas_mio
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
