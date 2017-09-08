@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: e84b58adddbab466aa6a1c3586652dd9
+timeCreated: 1504847754
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Circle.001
+    100002: Cube.085
+    100004: Cube.086
+    100006: Cube.087
+    100008: Cube.088
+    100010: Cube.089
+    100012: Cube.091
+    100014: Cube.093
+    100016: Cube.094
+    100018: Cube.101
+    100020: Cube.102
+    100022: Cube.139
+    100024: Cube.140
+    100026: Cube.142
+    100028: Cube.143
+    100030: Cube.144
+    100032: Cube.145
+    100034: Cube.146
+    100036: Cube.147
+    100038: Cube.148
+    100040: Cube.149
+    100042: Cube.150
+    100044: Cube.151
+    100046: Cube.152
+    100048: Cube.153
+    100050: Cube.154
+    100052: Cube.155
+    100054: Cube.156
+    100056: Cube.157
+    100058: Cube.158
+    100060: Cube.160
+    100062: //RootNode
+    100064: Sink Sektion style 2.007
+    100066: Sink Sektion style 2.019
+    100068: Sink Sektion style 2.020
+    100070: Sink Sektion style 2.021
+    100072: Sink Sektion style 2.022
+    100074: Sink Sektion style 2.023
+    100076: Sink Sektion style 2.024
+    100078: Sink Sektion style 2.025
+    100080: Sink Sektion style 2.026
+    100082: Sink Sektion style 2.027
+    100084: Sink Sektion style 2.029
+    100086: Sink Sektion style 2.030
+    100088: Sink Sektion style 2.032
+    100090: Sink Sektion.002
+    100092: Vert.044
+    100094: Vert.052
+    400000: Circle.001
+    400002: Cube.085
+    400004: Cube.086
+    400006: Cube.087
+    400008: Cube.088
+    400010: Cube.089
+    400012: Cube.091
+    400014: Cube.093
+    400016: Cube.094
+    400018: Cube.101
+    400020: Cube.102
+    400022: Cube.139
+    400024: Cube.140
+    400026: Cube.142
+    400028: Cube.143
+    400030: Cube.144
+    400032: Cube.145
+    400034: Cube.146
+    400036: Cube.147
+    400038: Cube.148
+    400040: Cube.149
+    400042: Cube.150
+    400044: Cube.151
+    400046: Cube.152
+    400048: Cube.153
+    400050: Cube.154
+    400052: Cube.155
+    400054: Cube.156
+    400056: Cube.157
+    400058: Cube.158
+    400060: Cube.160
+    400062: //RootNode
+    400064: Sink Sektion style 2.007
+    400066: Sink Sektion style 2.019
+    400068: Sink Sektion style 2.020
+    400070: Sink Sektion style 2.021
+    400072: Sink Sektion style 2.022
+    400074: Sink Sektion style 2.023
+    400076: Sink Sektion style 2.024
+    400078: Sink Sektion style 2.025
+    400080: Sink Sektion style 2.026
+    400082: Sink Sektion style 2.027
+    400084: Sink Sektion style 2.029
+    400086: Sink Sektion style 2.030
+    400088: Sink Sektion style 2.032
+    400090: Sink Sektion.002
+    400092: Vert.044
+    400094: Vert.052
+    2300000: Circle.001
+    2300002: Cube.085
+    2300004: Cube.086
+    2300006: Cube.087
+    2300008: Cube.088
+    2300010: Cube.089
+    2300012: Cube.091
+    2300014: Cube.101
+    2300016: Cube.102
+    2300018: Cube.139
+    2300020: Cube.140
+    2300022: Cube.142
+    2300024: Cube.143
+    2300026: Cube.144
+    2300028: Cube.145
+    2300030: Cube.146
+    2300032: Cube.147
+    2300034: Cube.148
+    2300036: Cube.149
+    2300038: Cube.150
+    2300040: Cube.151
+    2300042: Cube.152
+    2300044: Cube.153
+    2300046: Cube.154
+    2300048: Cube.155
+    2300050: Cube.157
+    2300052: Cube.158
+    2300054: Cube.160
+    2300056: Sink Sektion style 2.007
+    2300058: Sink Sektion style 2.019
+    2300060: Sink Sektion style 2.020
+    2300062: Sink Sektion style 2.021
+    2300064: Sink Sektion style 2.022
+    2300066: Sink Sektion style 2.023
+    2300068: Sink Sektion style 2.024
+    2300070: Sink Sektion style 2.025
+    2300072: Sink Sektion style 2.026
+    2300074: Sink Sektion style 2.027
+    2300076: Sink Sektion style 2.029
+    2300078: Sink Sektion style 2.030
+    2300080: Sink Sektion style 2.032
+    2300082: Sink Sektion.002
+    2300084: Vert.044
+    2300086: Vert.052
+    2300088: Cube.094
+    2300090: //RootNode
+    2300092: Cube.093
+    2300094: Cube.156
+    3300000: Circle.001
+    3300002: Cube.085
+    3300004: Cube.086
+    3300006: Cube.087
+    3300008: Cube.088
+    3300010: Cube.089
+    3300012: Cube.091
+    3300014: Cube.101
+    3300016: Cube.102
+    3300018: Cube.139
+    3300020: Cube.140
+    3300022: Cube.142
+    3300024: Cube.143
+    3300026: Cube.144
+    3300028: Cube.145
+    3300030: Cube.146
+    3300032: Cube.147
+    3300034: Cube.148
+    3300036: Cube.149
+    3300038: Cube.150
+    3300040: Cube.151
+    3300042: Cube.152
+    3300044: Cube.153
+    3300046: Cube.154
+    3300048: Cube.155
+    3300050: Cube.157
+    3300052: Cube.158
+    3300054: Cube.160
+    3300056: Sink Sektion style 2.007
+    3300058: Sink Sektion style 2.019
+    3300060: Sink Sektion style 2.020
+    3300062: Sink Sektion style 2.021
+    3300064: Sink Sektion style 2.022
+    3300066: Sink Sektion style 2.023
+    3300068: Sink Sektion style 2.024
+    3300070: Sink Sektion style 2.025
+    3300072: Sink Sektion style 2.026
+    3300074: Sink Sektion style 2.027
+    3300076: Sink Sektion style 2.029
+    3300078: Sink Sektion style 2.030
+    3300080: Sink Sektion style 2.032
+    3300082: Sink Sektion.002
+    3300084: Vert.044
+    3300086: Vert.052
+    3300088: Cube.094
+    3300090: //RootNode
+    3300092: Cube.093
+    3300094: Cube.156
+    4300000: Cube.160
+    4300002: Cube.158
+    4300004: Cube.157
+    4300006: Cube.156
+    4300008: Sink Sektion style 2.032
+    4300010: Cube.155
+    4300012: Cube.154
+    4300014: Cube.153
+    4300016: Cube.152
+    4300018: Cube.151
+    4300020: Cube.150
+    4300022: Cube.149
+    4300024: Cube.148
+    4300026: Cube.147
+    4300028: Cube.146
+    4300030: Cube.145
+    4300032: Cube.144
+    4300034: Cube.143
+    4300036: Cube.142
+    4300038: Cube.140
+    4300040: Cube.139
+    4300042: Vert.052
+    4300044: Cube.102
+    4300046: Sink Sektion style 2.027
+    4300048: Sink Sektion style 2.026
+    4300050: Sink Sektion style 2.007
+    4300052: Cube.101
+    4300054: Circle.001
+    4300056: Sink Sektion style 2.030
+    4300058: Sink Sektion style 2.029
+    4300060: Sink Sektion style 2.025
+    4300062: Sink Sektion style 2.024
+    4300064: Sink Sektion style 2.023
+    4300066: Sink Sektion style 2.022
+    4300068: Sink Sektion style 2.021
+    4300070: Vert.044
+    4300072: Cube.094
+    4300074: Cube.093
+    4300076: Sink Sektion style 2.020
+    4300078: Sink Sektion.002
+    4300080: Sink Sektion style 2.019
+    4300082: Cube.091
+    4300084: Cube.089
+    4300086: Cube.088
+    4300088: Cube.087
+    4300090: Cube.086
+    4300092: Cube.085
+    9500000: //RootNode
+    13700000: Cube.093
+    13700002: Cube.094
+    13700004: Cube.156
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

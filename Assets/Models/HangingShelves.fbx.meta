@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 18004a969032b4c5ab1aeae180581f7a
+timeCreated: 1504846912
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cube.150
+    100002: Cube.151
+    100004: Cube.152
+    100006: Cube.153
+    100008: Cube.154
+    100010: Cube.155
+    100012: Cube.156
+    100014: Cube.157
+    100016: Cube.158
+    100018: Cube.159
+    100020: //RootNode
+    100022: Sink Sektion style 2.032
+    100024: Sink Sektion style 2.041
+    100026: Sink Sektion style 2.042
+    100028: Sink Sektion style 2.043
+    100030: Sink Sektion style 2.044
+    100032: Sink Sektion style 2.045
+    100034: Sink Sektion style 2.046
+    100036: Sink Sektion style 2.047
+    100038: Sink Sektion style 2.048
+    100040: Sink Sektion style 2.049
+    400000: Cube.150
+    400002: Cube.151
+    400004: Cube.152
+    400006: Cube.153
+    400008: Cube.154
+    400010: Cube.155
+    400012: Cube.156
+    400014: Cube.157
+    400016: Cube.158
+    400018: Cube.159
+    400020: //RootNode
+    400022: Sink Sektion style 2.032
+    400024: Sink Sektion style 2.041
+    400026: Sink Sektion style 2.042
+    400028: Sink Sektion style 2.043
+    400030: Sink Sektion style 2.044
+    400032: Sink Sektion style 2.045
+    400034: Sink Sektion style 2.046
+    400036: Sink Sektion style 2.047
+    400038: Sink Sektion style 2.048
+    400040: Sink Sektion style 2.049
+    2300000: Cube.150
+    2300002: Cube.151
+    2300004: Cube.152
+    2300006: Cube.153
+    2300008: Cube.154
+    2300010: Cube.155
+    2300012: Cube.156
+    2300014: Cube.157
+    2300016: Cube.158
+    2300018: Cube.159
+    2300020: Sink Sektion style 2.032
+    2300022: Sink Sektion style 2.041
+    2300024: Sink Sektion style 2.042
+    2300026: Sink Sektion style 2.043
+    2300028: Sink Sektion style 2.044
+    2300030: Sink Sektion style 2.045
+    2300032: Sink Sektion style 2.046
+    2300034: Sink Sektion style 2.047
+    2300036: Sink Sektion style 2.048
+    2300038: Sink Sektion style 2.049
+    3300000: Cube.150
+    3300002: Cube.151
+    3300004: Cube.152
+    3300006: Cube.153
+    3300008: Cube.154
+    3300010: Cube.155
+    3300012: Cube.156
+    3300014: Cube.157
+    3300016: Cube.158
+    3300018: Cube.159
+    3300020: Sink Sektion style 2.032
+    3300022: Sink Sektion style 2.041
+    3300024: Sink Sektion style 2.042
+    3300026: Sink Sektion style 2.043
+    3300028: Sink Sektion style 2.044
+    3300030: Sink Sektion style 2.045
+    3300032: Sink Sektion style 2.046
+    3300034: Sink Sektion style 2.047
+    3300036: Sink Sektion style 2.048
+    3300038: Sink Sektion style 2.049
+    4300000: Sink Sektion style 2.049
+    4300002: Sink Sektion style 2.048
+    4300004: Sink Sektion style 2.047
+    4300006: Sink Sektion style 2.046
+    4300008: Sink Sektion style 2.045
+    4300010: Sink Sektion style 2.044
+    4300012: Sink Sektion style 2.043
+    4300014: Sink Sektion style 2.042
+    4300016: Sink Sektion style 2.041
+    4300018: Sink Sektion style 2.032
+    4300020: Cube.159
+    4300022: Cube.158
+    4300024: Cube.157
+    4300026: Cube.156
+    4300028: Cube.155
+    4300030: Cube.154
+    4300032: Cube.153
+    4300034: Cube.152
+    4300036: Cube.151
+    4300038: Cube.150
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
